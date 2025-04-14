@@ -1,5 +1,5 @@
-# Segmenting-Mall-Customer-with-K-means-Machine-Learning-Class-Project
+# Unsupervised Learning for Consumer Behavior Profiling: Identifying Latent Mall Patronage Patterns via K-means Algorithmic Partitioning.
 
-This is Exploratory Data Analysis Class Project 2024
+This is Machine Learning Class Project (Final Test)
 
 Just run on each prompt.
